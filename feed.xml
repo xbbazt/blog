@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>小白白回忆录</title>
+        <link>https://040824.xyz/</link>
+        <description>记录美好回忆</description>
+        <lastBuildDate>Sat, 28 Dec 2024 05:57:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>小白白回忆录</title>
+            <url>https://valaxy.site/valaxy-logo.png</url>
+            <link>https://040824.xyz/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 小白白</copyright>
+        <atom:link href="https://040824.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[搭建一个属于自己VPS探针  MyNodeQuery]]></title>
+            <link>https://040824.xyz/posts/mynodequery</link>
+            <guid>https://040824.xyz/posts/mynodequery</guid>
+            <pubDate>Mon, 21 Oct 2024 12:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>MyNodeQurey 简介</h1>
+<p>关于 MyNodeQuery，这是一款轻量级的服务器和网络性能监控工具，特别用于延迟监控。它支持实时监控虚拟专用服务器（VPS）网络状况，支持对节点进行 IPv4</p>
+<br/><p>访问 <a href="https://040824.xyz/posts/mynodequery" target="_blank">https://040824.xyz/posts/mynodequery</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (小白白)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://040824.xyz/posts/hello-valaxy</link>
+            <guid>https://040824.xyz/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://040824.xyz/posts/hello-valaxy" target="_blank">https://040824.xyz/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (小白白)</author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "小白白回忆录",
+    "home_page_url": "https://040824.xyz/",
+    "feed_url": "https://040824.xyz/feed.json",
+    "description": "记录美好回忆",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "小白白",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h1>MyNodeQurey 简介</h1>\n<p>关于 MyNodeQuery，这是一款轻量级的服务器和网络性能监控工具，特别用于延迟监控。它支持实时监控虚拟专用服务器（VPS）网络状况，支持对节点进行 IPv4</p>\n<br/><p>访问 <a href=\"https://040824.xyz/posts/mynodequery\" target=\"_blank\">https://040824.xyz/posts/mynodequery</a> 阅读全文。</p>",
+            "url": "https://040824.xyz/posts/mynodequery",
+            "title": "搭建一个属于自己VPS探针  MyNodeQuery",
+            "date_modified": "2024-10-20T23:53:35.000Z",
+            "date_published": "2024-10-21T12:00:00.000Z",
+            "author": {
+                "name": "小白白",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://040824.xyz/posts/hello-valaxy\" target=\"_blank\">https://040824.xyz/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://040824.xyz/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "小白白",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
